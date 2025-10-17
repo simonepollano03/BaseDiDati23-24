@@ -1,4 +1,4 @@
-# Progetto Basi di Dati – Cibora (A.A. 2023/2024)
+# Progetto di Basi di Dati – Cibora (A.A. 2023/2024)
 
 Questo progetto è stato sviluppato nell’ambito del corso di **Basi di Dati** presso l’**Università degli Studi di Torino**.  
 L’obiettivo è la **progettazione e implementazione completa** di una base di dati relazionale per **Cibora**, un innovativo servizio di *food delivery* che gestisce utenti, ristoranti, rider e ordini.
