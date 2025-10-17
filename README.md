@@ -11,8 +11,7 @@ L’obiettivo è la **progettazione e implementazione completa** di una base di 
 3. [Progettazione del Database](#-progettazione-del-database)
 4. [Script SQL e Struttura del Repository](#-script-sql-e-struttura-del-repository)
 5. [Autori](#-autori)
-6. [Bibliografia](#-bibliografia)
-
+   
 ---
 
 ## 🎯 Obiettivi del Progetto
