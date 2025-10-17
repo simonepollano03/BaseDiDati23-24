@@ -63,7 +63,8 @@ L’obiettivo è la **progettazione e implementazione completa** di una base di 
 ## 🗂️ Progettazione del Database
 
 ### Struttura logica
-- Entità principali: `Utente`, `Ristorante`, `Piatto`, `Rider`, `Ordine`, `Chat`, `Recensione`, `Borsellino`
+- Entità principali:
+  - `Utente`, `Ristorante`, `Piatto`, `Rider`, `Ordine`, `Chat`, `Recensione`, `Borsellino`
 - Relazioni principali:
   - `SelezionaOrdine`, `OrdineAssegnato`, `ChatUtente`, `RecensioneRistorante`, `RecensioneRider`, ecc.
 - Analisi delle ridondanze → mantenuta la ridondanza “Stelline” nel ristorante per migliorare le prestazioni
